@@ -13,6 +13,8 @@
 <br>
 ![CLion](https://img.shields.io/badge/CLion-%23000000?style=for-the-badge&logo=clion&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-%23000000?style=for-the-badge&logo=pycharm&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
+![Zed](https://img.shields.io/badge/zedindustries-084CCF.svg?style=for-the-badge&logo=zedindustries&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 **frameworks && libs:**  
